@@ -33,7 +33,7 @@ body {
 .block {
     margin: 0 auto;
     width: 500px;
-    height: 500px;
+    height: 200px;
     background-color: #fa950e;
     position: relative;
 }
