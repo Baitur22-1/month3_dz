@@ -1,0 +1,49 @@
+body {
+    background-color: #7c2c6f;
+}
+.bttn {
+    display: flex;
+    justify-content: center;
+}
+button {
+    border: none;
+    background-color: #2e9f01;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    padding: 10px 25px;
+    border-radius: 15px;
+    transition: 0.7s;
+}
+button:hover {
+    transform: scale(0.9);
+    box-shadow: 0 0 60px yellow;
+    cursor: pointer;
+}
+
+.wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin-top: 40px;
+    flex-wrap: wrap;
+}
+.dog {
+    width: 200px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+}
+
+.dog-img {
+    width: 200px;
+    height: 250px;
+    border-radius: 20px;
+}
+p {
+    font-size: 22px;
+    font-weight: 700;
+    color: white;
+}
+span {
+    font-size: 20px;
+    color: #c7c7c7;
+}

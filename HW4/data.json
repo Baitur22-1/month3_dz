@@ -1,0 +1,54 @@
+[
+  {
+    "photo": "img/download.png",
+    "name": "Трусы мужские BORNERS",
+    "price": "709₽"
+  },
+  {
+    "photo": "img/2..jpg",
+    "name": "Манго сушеное без сахара натуральное",
+    "price": "750 ₽"
+  },
+  {
+    "photo": "img/girl.jpg",
+    "name": "Nivea Пена для бритья",
+    "price": "218 ₽"
+  },
+  {
+    "photo": "img/britva.jpg",
+    "name": "Маска д/волос",
+    "price": "362 ₽"
+  },
+  {
+    "photo": "img/trusy.jpg",
+    "name": "МТрусы из хлопка",
+    "price": "1232 ₽"
+  },
+  {
+    "photo": "img/crem.jpg",
+    "name": "Мицеллярная вода",
+    "price": "239 ₽"
+  },
+  {
+    "photo": "img/earings.jpg",
+    "name": "Беспроводные наушники Xiaomi",
+    "price": "976 ₽"
+  },
+  {
+    "photo": "img/voy.jpg",
+    "name": "Худи оверсайз",
+    "price": "2192 ₽"
+  },
+  {
+    "photo": "img/oil.jpg",
+    "name": "beauty of skin",
+    "price": "262 ₽"
+  },
+  {
+    "photo": "img/phone.jpg",
+    "name": "xiaomi",
+    "price": "4262 ₽"
+  }
+
+
+]
